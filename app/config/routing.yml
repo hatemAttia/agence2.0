@@ -1,3 +1,9 @@
+frontend:
+    resource: "@frontendBundle/Controller/"
+    type:     annotation
+   
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
+    
